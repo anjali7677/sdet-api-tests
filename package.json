@@ -1,0 +1,14 @@
+{
+  "name": "sdet-api-tests",
+  "version": "1.0.0",
+  "description": "API test suite for SDET challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "jest": "^27.0.0",
+    "supertest": "^6.0.0"
+  }
+}
